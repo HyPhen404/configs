@@ -18,14 +18,14 @@ local c = {
   float_background = "#132434",
   background = "NONE",
   green1 = "#04FF00",
-  purple = "#9966cc"
+  blue1 = "#008cff"
 }
 
 c.normal = c.grey5
 c.border = c.grey3
 c.decoration = c.orange
 c.hidden = c.grey3
-c.built_in = c.purple;
+c.built_in = c.blue1;
 c.var_name = c.grey5
 c.func_name = c.cyan
 c.type_name = c.violet
